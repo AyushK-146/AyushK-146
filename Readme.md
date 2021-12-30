@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I am Currently An Third yearite pursuing Bachelor's Degree in Computer Science and Engineering From Kiit University . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AyushK-146&label=Ayush%20Kumar%20Profile%20Views&color=dc143c&style=plastic" alt="Ayush Kumar" /> </p>
+
 
 ## 🔥 Streak Stats
 
