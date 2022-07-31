@@ -3,7 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student+👨🏻‍💻;Web%20Developer+🕸️;Graphic%20Designer%20✏️;Blockchain%20Enthusiast%20⛓️;Blogger+🎒+and+Writer+✍🏽;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am Currently An Third yearite pursuing Bachelor's Degree in Computer Science and Engineering From Kiit University . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am Currently Final yearite pursuing Bachelor's Degree in Computer Science and Engineering From Kiit University . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 
